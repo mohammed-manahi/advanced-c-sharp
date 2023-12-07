@@ -1,0 +1,14 @@
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.exe
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.deps.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.runtimeconfig.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfo.cs
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\refint\DelegateBasicExample.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.genruntimeconfig.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\ref\DelegateBasicExample.dll

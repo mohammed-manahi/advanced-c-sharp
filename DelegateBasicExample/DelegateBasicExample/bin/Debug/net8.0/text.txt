@@ -1,0 +1,5 @@
+12/6/2023 7:12:14 AM: Hello Delegate in File
+12/6/2023 7:21:40 AM: A multi-cast for log text to screen and file
+12/6/2023 7:21:45 AM: A multi-cast for log text to screen and file
+12/6/2023 7:27:13 AM: A multi-cast for log text to screen and file
+12/6/2023 7:27:13 AM: Another way of multicast using a wrapper method

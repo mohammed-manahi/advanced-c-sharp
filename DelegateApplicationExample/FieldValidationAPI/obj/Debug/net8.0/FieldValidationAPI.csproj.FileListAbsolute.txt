@@ -1,0 +1,11 @@
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\bin\Debug\net8.0\FieldValidationAPI.deps.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\bin\Debug\net8.0\FieldValidationAPI.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\bin\Debug\net8.0\FieldValidationAPI.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.AssemblyInfo.cs
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\refint\FieldValidationAPI.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\FieldValidationAPI.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateApplicationExample\FieldValidationAPI\obj\Debug\net8.0\ref\FieldValidationAPI.dll
