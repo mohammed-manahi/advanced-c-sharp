@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\bin\Debug\net8.0\CovarianceAndContravarianceDelegates.exe
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\bin\Debug\net8.0\CovarianceAndContravarianceDelegates.deps.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\bin\Debug\net8.0\CovarianceAndContravarianceDelegates.runtimeconfig.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\bin\Debug\net8.0\CovarianceAndContravarianceDelegates.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\bin\Debug\net8.0\CovarianceAndContravarianceDelegates.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.AssemblyInfo.cs
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.sourcelink.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\refint\CovarianceAndContravarianceDelegates.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\CovarianceAndContravarianceDelegates.genruntimeconfig.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\CovarianceAndContravarianceDelegates\CovarianceAndContravarianceDelegates\obj\Debug\net8.0\ref\CovarianceAndContravarianceDelegates.dll
