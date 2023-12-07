@@ -36,7 +36,7 @@ public class RegisterUser : IRegister
         bool emailExists = false;
         using (var dbContext = new ApplicationDbContext())
         {
-            dbContext.Users.Any(user => user.EmailAddress.Trim().ToLower() == emailAddress.Trim().ToLower());
+           emailExists = dbContext.Users.Any(user => user.EmailAddress.Trim().ToLower() == emailAddress.Trim().ToLower());
         }
         return emailExists;
     }
