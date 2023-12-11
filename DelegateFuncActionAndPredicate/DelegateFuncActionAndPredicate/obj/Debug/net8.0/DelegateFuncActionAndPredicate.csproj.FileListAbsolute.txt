@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.AssemblyInfo.cs
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.sourcelink.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\bin\Debug\net8.0\DelegateFuncActionAndPredicate.exe
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\bin\Debug\net8.0\DelegateFuncActionAndPredicate.deps.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\bin\Debug\net8.0\DelegateFuncActionAndPredicate.runtimeconfig.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\bin\Debug\net8.0\DelegateFuncActionAndPredicate.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\bin\Debug\net8.0\DelegateFuncActionAndPredicate.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\refint\DelegateFuncActionAndPredicate.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\DelegateFuncActionAndPredicate.genruntimeconfig.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\DelegateFuncActionAndPredicate\DelegateFuncActionAndPredicate\obj\Debug\net8.0\ref\DelegateFuncActionAndPredicate.dll
