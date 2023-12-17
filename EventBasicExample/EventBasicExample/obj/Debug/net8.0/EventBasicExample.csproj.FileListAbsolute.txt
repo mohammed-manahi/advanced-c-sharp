@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\bin\Debug\net8.0\EventBasicExample.exe
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\bin\Debug\net8.0\EventBasicExample.deps.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\bin\Debug\net8.0\EventBasicExample.runtimeconfig.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\bin\Debug\net8.0\EventBasicExample.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\bin\Debug\net8.0\EventBasicExample.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.AssemblyInfo.cs
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.sourcelink.json
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\refint\EventBasicExample.dll
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.pdb
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\EventBasicExample.genruntimeconfig.cache
+C:\Users\Mohammed\Lab\Advanced C Sharp\EventBasicExample\EventBasicExample\obj\Debug\net8.0\ref\EventBasicExample.dll
