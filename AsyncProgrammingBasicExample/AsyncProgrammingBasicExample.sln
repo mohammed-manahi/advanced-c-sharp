@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgrammingBasicExample", "AsyncProgrammingBasicExample\AsyncProgrammingBasicExample.csproj", "{D19AE752-4D91-412D-890A-A95A28270F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTimeConsumingOperationWebApi", "TestTimeConsumingOperationWebApi\TestTimeConsumingOperationWebApi.csproj", "{0BE29FA1-2DF6-4A37-BD7E-3F0B227AE614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D19AE752-4D91-412D-890A-A95A28270F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19AE752-4D91-412D-890A-A95A28270F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19AE752-4D91-412D-890A-A95A28270F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19AE752-4D91-412D-890A-A95A28270F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE29FA1-2DF6-4A37-BD7E-3F0B227AE614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE29FA1-2DF6-4A37-BD7E-3F0B227AE614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE29FA1-2DF6-4A37-BD7E-3F0B227AE614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE29FA1-2DF6-4A37-BD7E-3F0B227AE614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
